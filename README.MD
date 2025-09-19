@@ -1,6 +1,6 @@
-<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
+<h1>👋 Welcome to My GitHub Profile!</h1>
 
-<p align="center">Hi, I'm <b>Roshan Prasad</b> 👨‍💻 <br>
+<p>Hi, I'm <b>Roshan Prasad</b> 👨‍💻 <br>
 DevOps Engineer | Cloud Engineer</p>
 
 ---
