@@ -79,7 +79,7 @@ with expertise in AWS, Kubernetes, Terraform, and CI/CD pipelines for scalable, 
 
 <h2> 💡 Though I bring 2 years of hands-on experience, I naturally operate in a managerial & entrepreneurial mindset — always looking at the bigger picture while driving teams forward. </h2>
 
-<h3> I thrive on: </h3>
+<h3> 😎 I thrive on: </h3>
 
 <p> 
 
