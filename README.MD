@@ -102,4 +102,4 @@ Execution Excellence → Managing adhocs, short epics, and long epics effectivel
 </p>
 
 <h3> My Resume </h3>
-https://drive.google.com/file/d/16OvX3Ge0rFRRRKq2idASzkHEzMRYKrfO/view?usp=sharing
+https://drive.google.com/file/d/1hbGflUa7cS6k2WIORrR9vPsBVwWCmuGW/view?usp=sharing
