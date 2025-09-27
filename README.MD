@@ -101,5 +101,3 @@ Execution Excellence → Managing adhocs, short epics, and long epics effectivel
 <a href="https://roshanprasadp.github.io/portfolio/">Website</a>
 </p>
 
-<h3> My Resume </h3>
-https://drive.google.com/file/d/1hbGflUa7cS6k2WIORrR9vPsBVwWCmuGW/view?usp=sharing
