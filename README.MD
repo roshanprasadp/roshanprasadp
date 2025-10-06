@@ -34,7 +34,7 @@ with expertise in AWS, Kubernetes, Terraform, and CI/CD pipelines for scalable, 
 <h3>DevOps Engineer | Kissht (July 2025 – Present | Hyderabad)</h3>
 <ul>
   <li>🚀 Designed & implemented CI/CD pipelines with AWS CodePipeline + Jenkins (-40% deployment time)</li>
-  <li>💰 Cloud cost optimisation (20% savings)</li>
+  <li>💰 Cloud cost optimisation & improvisation (20% savings)</li>
   <li>📦 Containerised microservices with Docker + Kubernetes (99.9% uptime)</li>
   <li>⚡ Provisioned AWS infra with Terraform, reducing setup time</li>
 </ul>
