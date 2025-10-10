@@ -49,7 +49,7 @@ with expertise in AWS, Kubernetes, Terraform, and CI/CD pipelines for scalable, 
 
 <h3>Data Analyst | Pay With Ring (Aug 2023 – Aug 2024 | Mumbai)</h3>
 <ul>
-  <li>📑 Automated reporting with Snowflake + Python (-30% effort)</li>
+  <li>📑 Automated reporting with Snowflake and Python (-30% effort)</li>
   <li>👨‍🏫 Trained team in BI & Python automation</li>
   <li>🗂️ Built stored procedures & validation frameworks</li>
 </ul>
