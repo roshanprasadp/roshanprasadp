@@ -31,27 +31,12 @@ with expertise in AWS, Kubernetes, Terraform, and CI/CD pipelines for scalable, 
 
 <h2>💼 Professional Experience</h2>
 
-<h3>DevOps Engineer | Kissht (July 2025 – Present | Hyderabad)</h3>
+<h3>DevOps Engineer | Kissht (August 2023 – Present | Hyderabad)</h3>
 <ul>
   <li>🚀 Designed & implemented CI/CD pipelines with AWS CodePipeline + Jenkins (-40% deployment time)</li>
   <li>💰 Cloud cost optimisation (20% savings)</li>
   <li>📦 Containerised microservices with Docker + Kubernetes (99.9% uptime)</li>
   <li>⚡ Provisioned AWS infra with Terraform, reducing setup time</li>
-</ul>
-
-<h3>Data Engineer | Pay With Ring (Aug 2025 – Jul 2025 | Mumbai)</h3>
-<ul>
-  <li>⚙️ Automated tasks with Python/Shell (-30% manual workload)</li>
-  <li>📊 Monitoring & alerting with CloudWatch + scripts</li>
-  <li>📉 Processed 20GB+ datasets → reduced loan defaults by 12%</li>
-  <li>📡 Dashboards in Grafana/CloudWatch</li>
-</ul>
-
-<h3>Data Analyst | Pay With Ring (Aug 2023 – Aug 2024 | Mumbai)</h3>
-<ul>
-  <li>📑 Automated reporting with Snowflake + Python (-30% effort)</li>
-  <li>👨‍🏫 Trained team in BI & Python automation</li>
-  <li>🗂️ Built stored procedures & validation frameworks</li>
 </ul>
 
 ---
